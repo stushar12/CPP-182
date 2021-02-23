@@ -1,5 +1,5 @@
 # CPP-182
-Minimum Spanning Tree
+Minimum Spanning Tree(GFG)
 
 
 
